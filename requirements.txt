@@ -1,0 +1,7 @@
+requests>=2.31.0
+sentence-transformers>=2.2.0
+pymongo>=4.5.0
+python-dotenv>=1.0.0
+groq>=0.4.0
+yara-python>=4.3.0
+tenacity>=8.2.0
